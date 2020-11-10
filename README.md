@@ -4,7 +4,9 @@ Restful API using ExpressJS, MongoDB, Mongoose
 Steps to run project
 
 Step 1 : npm install
+
 Step 2 : node index.js
+
 Step 3 : Run Postman Application
 
 Create User : http://localhost:3000/api/user/createUser
