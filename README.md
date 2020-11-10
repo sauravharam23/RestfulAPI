@@ -11,7 +11,7 @@ Step 3 : Run Postman Application
 
 Create User : http://localhost:3000/api/user/createUser
               
-              Method - Post
+Method - Post
               
               Enter values in body x-www-form-urlencoded
               
@@ -22,14 +22,14 @@ Create User : http://localhost:3000/api/user/createUser
               Email : "     "
 
 
-Find User : http://localhost:3000/api/user/find/:email -> enter email to find in url email parameter
+Find User : http://localhost:3000/api/user/find/:email -> Enter email to find in url email parameter
             
-            Method - Get
+Method - Get
             
-Update User : http://localhost:3000/api/user/update/:email -> enter email to update in url email parameter
+Update User : http://localhost:3000/api/user/update/:email -> Enter email to update in url email parameter
               
-              Method - Put
+Method - Put
               
-Delete User : http://localhost:3000/api/user/delete/:email -> enter email to delete in url email parameter
+Delete User : http://localhost:3000/api/user/delete/:email -> Enter email to delete in url email parameter
               
-              Method - Delete
+Method - Delete
